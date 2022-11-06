@@ -1,8 +1,6 @@
 # Potentiostat
 Open source simple potentiostat
 
-
-
 ## 2022.11.6
 
 ### Current progress
