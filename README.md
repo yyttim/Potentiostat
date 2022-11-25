@@ -1,6 +1,20 @@
 # Potentiostat
 Open source simple potentiostat
 
+## 2022.11.25
+
+### Curent progress
+
+Completed the packaging of each chip
+
+Updated PCB from schematic
+
+### Next step
+
+Adjust the position of each component
+
+Complete wiring
+
 ## 2022.11.17
 
 ### Current progress
