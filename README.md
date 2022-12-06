@@ -1,6 +1,20 @@
 # Potentiostat
 Open source simple potentiostat
 
+## 2022.12.6
+
+### Curent progress
+
+We decided to ditch KiCAD and use Altium Designer for the rest of the work
+
+The files for the Altium Designer version are in the "Potentiostat" folder
+
+### Next step
+
+Optimize schematic
+
+Draw PCB layout
+
 ## 2022.11.25
 
 ### Curent progress
